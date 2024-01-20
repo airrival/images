@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   sodipodi:docname="airrival.svg"
+   sodipodi:docname="airrival_v2.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    id="svg5"
    version="1.1"
-   viewBox="0 0 233.24449 169.14014"
-   height="169.14014mm"
-   width="233.24449mm"
-   inkscape:export-filename="airrival_small_2.png"
-   inkscape:export-xdpi="16.334791"
-   inkscape:export-ydpi="16.334791"
+   viewBox="0 0 263.24398 269.14002"
+   height="269.14001mm"
+   width="263.24399mm"
+   inkscape:export-filename="airrival_v2.png"
+   inkscape:export-xdpi="103.37894"
+   inkscape:export-ydpi="103.37894"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,8 +29,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.84096523"
-     inkscape:cx="366.84037"
-     inkscape:cy="422.13398"
+     inkscape:cx="321.6542"
+     inkscape:cy="755.08473"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
      inkscape:window-x="-8"
@@ -311,7 +311,7 @@
        style="fill:url(#linearGradient45010);stroke:#000000;stroke-width:3.08809"
        inkscape:transform-center-x="-9.1134614"
        inkscape:transform-center-y="18.242448"
-       transform="matrix(1.1182386,0,0,1.1182386,-0.38069095,-9.6560725)"
+       transform="matrix(1.1182386,0,0,1.1182386,14.619062,40.343862)"
        d="M 18.467921,23.28363 H 247.45847 c 0.0476,0 0.0859,0.03833 0.0859,0.08595 v 164.84268 c 0,0.0476 -0.0383,0.0859 -0.0859,0.0859 H 18.467921 c -0.04761,0 -0.08595,-0.0383 -0.08595,-0.0859 V 23.369576 c 0,-0.04761 0.03833,-0.08595 0.08595,-0.08595 z" />
   </g>
   <script
